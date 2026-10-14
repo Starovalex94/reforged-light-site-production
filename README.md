@@ -41,7 +41,7 @@ Current menu destinations are `/`, `/about`, and `/contact`.
 | --- | --- |
 | `subtitle` | Small line above the headline. |
 | `headlineLines` | Headline. Each string is its own line. |
-| `primaryCta` / `secondaryCta` | The two buttons. Each has a `label` and an `href`. |
+| `secondaryCta` | The Teacher Training button. It has a `label` and an `href`. |
 
 The background video is the file `public/hero-video.mp4`. Replace that file to change the clip. The loop window (seconds 9 through 36) is set in `src/components/Hero.jsx`, not in the JSON file.
 
@@ -152,8 +152,6 @@ A link that starts with `#` scrolls to a section on the home page. These ids exi
 - `#benefits`
 - `#consultations`
 - `#training`
-
-`#download` is the current Download App button target, and there is no section with that id.
 
 ## Images and video
 

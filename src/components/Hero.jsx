@@ -8,7 +8,6 @@ export default function Hero() {
   const {
     subtitle,
     headlineLines,
-    primaryCta,
     secondaryCta,
   } = content.hero
 
@@ -112,12 +111,6 @@ export default function Hero() {
             ))}
           </h1>
           <div className="mt-2 flex flex-wrap items-center justify-center gap-4">
-            <a
-              href={primaryCta.href}
-              className="rounded-md bg-beige px-8 py-3.5 text-sm font-medium text-ink transition hover:bg-beige-dark"
-            >
-              {primaryCta.label}
-            </a>
             <a
               href={secondaryCta.href}
               className="rounded-md border border-white/80 bg-transparent px-8 py-3.5 text-sm font-medium text-white transition hover:bg-white/10"

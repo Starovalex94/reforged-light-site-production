@@ -18,10 +18,6 @@
     "youtubeVideoId": "vQkqavvta7I",
     "youtubeStartSeconds": 4,
     "youtubeEndSeconds": 40,
-    "primaryCta": {
-      "label": "Download App",
-      "href": "#download"
-    },
     "secondaryCta": {
       "label": "Teacher Training",
       "href": "#training"
