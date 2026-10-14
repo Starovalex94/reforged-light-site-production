@@ -1,10 +1,9 @@
 {
   "site": {
-    "title": "Breathwork Guru"
+    "title": "Reforged Light Sobriety"
   },
   "header": {
-    "logoBefore": "Breathwork",
-    "logoAfter": "Guru",
+    "logo": "Reforged Light Sobriety",
     "nav": [
       { "label": "Home", "href": "/" },
       { "label": "About", "href": "/about" },
@@ -133,7 +132,7 @@
     }
   },
   "footer": {
-    "brandName": "Breathwork Guru",
+    "brandName": "Reforged Light Sobriety",
     "tagline": "Healing begins with the breath.",
     "nav": [
       { "label": "Home", "href": "/" },
@@ -145,6 +144,6 @@
       { "label": "YouTube", "href": "https://youtube.com" },
       { "label": "TikTok", "href": "https://www.tiktok.com/@rlsobriety" }
     ],
-    "copyrightName": "Breathwork Guru"
+    "copyrightName": "Reforged Light Sobriety"
   }
 }

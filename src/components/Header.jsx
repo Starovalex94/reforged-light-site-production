@@ -54,7 +54,7 @@ function NavLink({ href, children, onClick, tabIndex, className }) {
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false)
-  const { logoBefore, logoAfter, nav } = content.header
+  const { logo, nav } = content.header
   const location = useLocation()
 
   const handleLogoClick = () => {
@@ -90,15 +90,12 @@ export default function Header() {
 
             <Link
               to="/"
-              className="absolute left-1/2 flex -translate-x-1/2 items-center gap-2 lg:static lg:translate-x-0"
+              className="absolute left-1/2 flex max-w-[calc(100%-5.5rem)] -translate-x-1/2 items-center gap-2 lg:static lg:max-w-none lg:translate-x-0"
               onClick={handleLogoClick}
             >
-              <span className="font-serif text-xl font-semibold tracking-tight text-ink">
-                {logoBefore}
-              </span>
               <LogoIcon />
-              <span className="font-serif text-xl font-semibold tracking-tight text-ink">
-                {logoAfter}
+              <span className="font-serif text-base font-semibold leading-tight tracking-tight text-ink sm:text-lg lg:text-xl">
+                {logo}
               </span>
             </Link>
 

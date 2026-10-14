@@ -1,4 +1,4 @@
-# Breathwork Guru
+# Reforged Light Sobriety
 
 The site has three pages: Home (`/`), About (`/about`), and Book & Contact (`/contact`).
 
@@ -30,7 +30,7 @@ The browser tab title comes from `site.title`. The same words are also set in `i
 
 | Field | What it changes |
 | --- | --- |
-| `logoBefore` / `logoAfter` | The two words in the logo. An icon sits between them. |
+| `logo` | The name in the header. An icon sits to its left. |
 | `nav` | Menu labels and destinations. Each item is `{ "label": "About", "href": "/about" }`. |
 
 Current menu destinations are `/`, `/about`, and `/contact`.
