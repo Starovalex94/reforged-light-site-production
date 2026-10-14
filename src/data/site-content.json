@@ -17,8 +17,12 @@
     "youtubeVideoId": "vQkqavvta7I",
     "youtubeStartSeconds": 4,
     "youtubeEndSeconds": 40,
+    "primaryCta": {
+      "label": "About program",
+      "href": "#consultations"
+    },
     "secondaryCta": {
-      "label": "Teacher Training",
+      "label": "Book and Consultations",
       "href": "#training"
     }
   },

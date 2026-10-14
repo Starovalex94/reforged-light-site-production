@@ -41,7 +41,8 @@ Current menu destinations are `/`, `/about`, and `/contact`.
 | --- | --- |
 | `subtitle` | Small line above the headline. |
 | `headlineLines` | Headline. Each string is its own line. |
-| `secondaryCta` | The Teacher Training button. It has a `label` and an `href`. |
+| `primaryCta` | The About program button. It has a `label` and an `href`. It currently scrolls to `#consultations`, the winding path. |
+| `secondaryCta` | The Book and Consultations button. It has a `label` and an `href`. It currently scrolls to `#training`, the section with Book your spot. |
 
 The background video is the file `public/hero-video.mp4`. Replace that file to change the clip. The loop window (seconds 9 through 36) is set in `src/components/Hero.jsx`, not in the JSON file.
 
