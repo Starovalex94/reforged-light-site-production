@@ -27,34 +27,34 @@
     }
   },
   "about": {
-    "headlineLines": ["The art and science", "of breathwork"],
-    "body": "Breathwork is a conscious practice of regulating the breath to shift the nervous system, release stored tension, and access deeper states of healing. Rooted in ancient wisdom and validated by modern science, it offers a direct path to regulation, clarity, and transformation."
+    "headlineLines": ["The art and choice", "of recovery"],
+    "body": "Recovery is a conscious chain of decisions of choosing a better life, taming anxiety, and access deeper understanding of our lives. Founded on modern eastern psychology and ancient philosophy, Reforged Light offers a direct path to recovery, stability, transformation, and enlightenment of meeting life at any stage."
   },
   "aboutPage": {
     "subtitle": "About",
-    "headline": "Guiding others toward light through breath and presence.",
+    "headline": "Guiding others toward sobreity through strength, choice, and presence.",
     "imageSrc": "/alex_profile_photo.jpg",
     "imageAlt": "Alex - Breathwork facilitator and sobriety coach",
     "paragraphs": [
-      "My journey into breathwork began through my own path of recovery and transformation. After years of struggling with addiction and disconnection, I discovered the profound healing power of conscious breathing — a practice that quite literally saved my life.",
-      "Today, I dedicate my work to helping others find the same clarity, regulation, and inner peace that breathwork brought me. I believe that within every person lies the capacity for deep healing, and that the breath is our most accessible tool for accessing it.",
-      "As a certified breathwork facilitator and sobriety coach, I combine evidence-based techniques with trauma-informed practices to create safe, supportive spaces for transformation. Whether you're seeking stress relief, emotional release, or a deeper connection to yourself, I'm here to guide you.",
-      "My approach is rooted in compassion, presence, and the understanding that healing is not linear. Every session is tailored to meet you exactly where you are on your journey."
+      "My journey into sobreity began through my own path of recovery, decisions, and internal transformation. After attempting to recover using all the tools the West had to offer, I discovered the freedom of choice offered with Adlerian Psychology and Eastern philosophy. The ability to control my mind, body, and path quite literally saved my life.",
+      "Today, I work tirelessly to helping others find the same peace of mind, control, and stability that these approaches have brought me. I truly believe that each person is the master of their own will, they just have not been able to access and use it properly.",
+      "As a sobriety coach and mentor, I combine an evidence-based psychological approach with a philosophical understanding to help a person see their own choices and what choices their will allows them to make. Whether you're seeking sobriety, continued support, or a deeper understnading of yourself, I'm here to guide you in those discoveries.",
+      "My approach is centered in understanding, presence, deliberate action and the understanding that no matter the life around us, we are in control above all else. Every path and sessions is tailored to your personal experience and to your needs on this journey."
     ],
-    "quote": "The breath is the bridge between the body and the mind. When we learn to work with it consciously, we unlock our capacity for profound healing."
+    "quote": "When we accept responsibility for being alive, we begin to exist. If we exist, then we can be responsible. If we can be responsible, then we have a choice of how to exist."
   },
   "benefits": {
     "imageSrc": "/stacked_rocks.jpg",
     "imageAlt": "Balanced stacking rocks in water representing calm and stability",
-    "title": "Transform your relationship with stress",
-    "body": "Our evidence-based breathwork programs help you move from chronic stress and anxiety into states of calm, clarity, and deep restoration. Whether you're new to breathwork or deepening an existing practice, we meet you where you are.",
+    "title": "Transform the voice between you and yourself",
+    "body": "Our evidence-based sobriety programs help you remove stress, anxiety, and nervousness into states of clarity, stability, and harmony. Whether you're starting your path or reinforcing your strength, we begin where you start.",
     "listLabel": "What you'll learn",
     "listItems": [
-      "Nervous system regulation techniques",
-      "Guided breathwork session protocols",
-      "Somatic release and body awareness",
-      "Stress and anxiety reduction methods",
-      "Sleep improvement breath patterns",
+      "Nervous system regulation",
+      "Emotional deescalation techniques",
+      "Psychological and physiological awareness",
+      "Conscious control of agiation and stillness",
+      "Understanding of self and your surroundings",
       "Personalized practice plans"
     ]
   },
@@ -62,51 +62,47 @@
     "backgroundImage": "/flower_growing.jpg",
     "steps": [
       {
-        "title": "Sympathetic → Parasympathetic Shift",
-        "body": "Slow, rhythmic breathing moves the body out of stress mode and into regulation."
+        "title": "Awareness of the self",
+        "body": "Understanding of the choices that led to the now, where you are, and the choices that lay ahead."
       },
       {
-        "title": "CO₂ Tolerance",
-        "body": "Better CO₂ control reduces panic signals and stabilizes emotional reactivity."
+        "title": "The Power of Choice",
+        "body": "The ability to see the choices ahead, make them, and follow through."
       },
       {
-        "title": "Vagal Tone Activation",
-        "body": "Extended exhales stimulate the vagus nerve, promoting calm and social connection."
+        "title": "Responsible Action",
+        "body": "Action following a decision lead to desired outcomes and a peace with the life being created."
       },
       {
-        "title": "Emotional Release",
-        "body": "Conscious breath patterns unlock stored trauma and facilitate deep somatic healing."
+        "title": "Appreciation of the power of will",
+        "body": "Conscious awareness that you are in control of your responses and decisions, regardless of how events happen around you."
       }
     ]
   },
   "training": {
-    "headlineLines": ["Become a certified", "breathwork facilitator"],
-    "body": "Learn to guide others into deep healing states using the only clinically-validated breathwork method proven to reduce PTSD, anxiety & depression.",
+    "headlineLines": ["Begin your path", "to a life you chose"],
+    "body": "Learn how to remain composed in times of stress, the power of your choice and will, and the change you can bring to yourself. Using evidence based approaches proven to aid in recovery, stability, reduce anxiety and depression.",
     "cta": {
-      "label": "Book your spot",
+      "label": "Reach out to begin",
       "href": "/contact"
     },
     "whatsIncludedLabel": "What's included",
     "cards": [
       {
-        "title": "In-depth breathwork curriculum and methodology",
-        "body": "Study the core principles of breathwork facilitation, including advanced cyclical patterns, somatic sequencing, and the structure behind safe, effective session design."
+        "title": "A personalized approach",
+        "body": "Learn about the core principals of your own mind, how choices are made, and your own drives. Each program is curated based on individual sessions and weekly check-ins."
       },
       {
-        "title": "Trauma-informed facilitation training",
-        "body": "Learn how to hold space for clients processing deep emotional material with safety, presence, and professional boundaries."
+        "title": "A built in support system",
+        "body": "Our coaches are available 24-7 for any of your possible needs throughout your journey. You will have access to support where and when you need it."
       },
       {
-        "title": "Live practicum and supervised sessions",
-        "body": "Gain hands-on experience guiding real sessions under expert supervision, with personalized feedback to refine your technique."
+        "title": "Work that makes a difference",
+        "body": "The program includes exercises that help you gain insight into your own understanding of the world and self. In addition to as many as needed weekly sessions, the program includes daily check ins and guided support."
       },
       {
-        "title": "Business and client acquisition toolkit",
-        "body": "Access templates, marketing strategies, and ethical frameworks to build a sustainable breathwork practice from day one."
-      },
-      {
-        "title": "Lifetime community and continuing education",
-        "body": "Join a global network of certified facilitators with ongoing workshops, mentorship, and advanced training opportunities."
+        "title": "Lifetime community and continuing support",
+        "body": "Even after the program ending, you will have access to our coaches and community for support, guideance, and help for any questions that may arise, and celebration for all your achievements.."
       }
     ]
   },
