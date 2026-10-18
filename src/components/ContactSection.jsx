@@ -126,8 +126,8 @@ ${formData.message}
           <div className="flex flex-col">
             <h3 className="mb-4 font-serif text-xl font-medium text-ink">Get in Touch</h3>
             <p className="text-lg leading-relaxed text-ink/70">
-              We'd love to hear from you. Whether you have questions about our services, 
-              want to learn more about breathwork, or are ready to begin your journey — 
+              We'd love to hear from you and help you. Whether you have questions about the programs, 
+              want to learn more about our methods, or are ready to choose a better life — 
               reach out and we'll respond within 24 hours.
             </p>
             
