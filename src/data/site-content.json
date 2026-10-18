@@ -5,7 +5,7 @@
   "header": {
     "logo": "Reforged Light Sobriety",
     "nav": [
-      { "label": "Himbo", "href": "/" },
+      { "label": "Home", "href": "/" },
       { "label": "About", "href": "/about" },
       { "label": "Book & Contact", "href": "/contact" }
     ]
