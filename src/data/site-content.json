@@ -1,9 +1,9 @@
 {
   "site": {
-    "title": "Reforged Light"
+    "title": "Reforged Light Sobriety"
   },
   "header": {
-    "logo": "Reforged Light Sobriety",
+    "logo": "Reforged Light",
     "nav": [
       { "label": "Home", "href": "/" },
       { "label": "About", "href": "/about" },
