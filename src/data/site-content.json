@@ -27,8 +27,8 @@
     }
   },
   "about": {
-    "headlineLines": ["The art and choice", "of recovery"],
-    "body": "Recovery is a conscious chain of decisions of choosing a better life, taming anxiety, and access deeper understanding of our lives. Founded on modern eastern psychology and ancient philosophy, Reforged Light offers a direct path to recovery, stability, transformation, and enlightenment of meeting life at any stage."
+    "headlineLines": ["The Will and Choice", "of Recovery"],
+    "body": "Recovery is a conscious chain of decisions of choosing a better life, taming anxiety, and accessing deeper understanding of our lives. Founded on modern individual and positive psychology and Eastern philosophy, Reforged Light offers a direct path to recovery, stability, transformation, and enlightenment to meet life at any stage."
   },
   "aboutPage": {
     "subtitle": "About",
@@ -36,10 +36,10 @@
     "imageSrc": "/alex_profile_photo.jpg",
     "imageAlt": "Alex - Breathwork facilitator and sobriety coach",
     "paragraphs": [
-      "My journey into sobreity began through my own path of recovery, decisions, and internal transformation. After attempting to recover using all the tools the West had to offer, I discovered the freedom of choice offered with Adlerian Psychology and Eastern philosophy. The ability to control my mind, body, and path quite literally saved my life.",
-      "Today, I work tirelessly to helping others find the same peace of mind, control, and stability that these approaches have brought me. I truly believe that each person is the master of their own will, they just have not been able to access and use it properly.",
-      "As a sobriety coach and mentor, I combine an evidence-based psychological approach with a philosophical understanding to help a person see their own choices and what choices their will allows them to make. Whether you're seeking sobriety, continued support, or a deeper understnading of yourself, I'm here to guide you in those discoveries.",
-      "My approach is centered in understanding, presence, deliberate action and the understanding that no matter the life around us, we are in control above all else. Every path and sessions is tailored to your personal experience and to your needs on this journey."
+      "My journey into sobriety began through my own path of recovery, decisions, and internal transformation more than 10 years ago. After attempting to recover using all the tools, methods, and approaches the West had to offer, I discovered the freedom of choice offered with Adlerian Psychology, Eastern philosophy, and the Will to Meaning. The ability to control my mind, body, and path quite literally saved my life and allowed me to choose what I wanted to build moving forward.",
+      "Today, I work tirelessly to helping others find the same peace of mind, control, and tranquility that these methods have brought me. I truly believe that each person is the master of their own will, they just have not been able to access and use it properly.",
+      "As a sobriety coach and mentor, I combine an evidence-based psychological approach with a philosophical understanding to help a person see their own choices and what choices their will allows them to make. Whether you're seeking sobriety, continued support, or a deeper understanding of yourself, I'm here to guide you in those discoveries.",
+      "My approach is centered in understanding, presence, deliberate action and the acknowledgment that no matter the life around us, we are in control above all else. Every path and sessions is tailored to your personal experience and needs on this journey."
     ],
     "quote": "When we accept responsibility for being alive, we begin to exist. If we exist, then we can be responsible. If we can be responsible, then we have a choice of how to exist."
   },
@@ -47,13 +47,13 @@
     "imageSrc": "/stacked_rocks.jpg",
     "imageAlt": "Balanced stacking rocks in water representing calm and stability",
     "title": "Transform the voice between you and yourself",
-    "body": "Our evidence-based sobriety programs help you remove stress, anxiety, and nervousness into states of clarity, stability, and harmony. Whether you're starting your path or reinforcing your strength, we begin where you start.",
+    "body": "Our evidence-based sobriety programs help you remove stress, anxiety, and nervousness, transmuting them into states of clarity, stability, and harmony. Whether you're starting your path or reinforcing your strength, we begin where you start.",
     "listLabel": "What you'll learn",
     "listItems": [
       "Nervous system regulation",
-      "Emotional deescalation techniques",
+      "Emotional de-escalation techniques",
       "Psychological and physiological awareness",
-      "Conscious control of agiation and stillness",
+      "Conscious control of agitation and stillness",
       "Understanding of self and your surroundings",
       "Personalized practice plans"
     ]
@@ -70,8 +70,8 @@
         "body": "The ability to see the choices ahead, make them, and follow through."
       },
       {
-        "title": "Responsible Action",
-        "body": "Action following a decision lead to desired outcomes and a peace with the life being created."
+        "title": "Responsiblity of Action",
+        "body": "Responsiblity for actions after making a decision leads to desired outcomes and a peace with the life being created."
       },
       {
         "title": "Appreciation of the power of will",
@@ -81,7 +81,7 @@
   },
   "training": {
     "headlineLines": ["Begin your path", "to a life you chose"],
-    "body": "Learn how to remain composed in times of stress, the power of your choice and will, and the change you can bring to yourself. Using evidence based approaches proven to aid in recovery, stability, reduce anxiety and depression.",
+    "body": "Learn how to remain composed in times of stress, the power of your choice and will, and the change you can bring to yourself. We use research-based comprehensive methods proven to aid in recovery, promote stability, and reduce anxiety and depression.",
     "cta": {
       "label": "Reach out to begin",
       "href": "/contact"
@@ -97,12 +97,12 @@
         "body": "Our coaches are available 24-7 for any of your possible needs throughout your journey. You will have access to support where and when you need it."
       },
       {
-        "title": "Work that makes a difference",
-        "body": "The program includes exercises that help you gain insight into your own understanding of the world and self. In addition to as many as needed weekly sessions, the program includes daily check ins and guided support."
+        "title": "A different approach to recovery",
+        "body": "The program includes exercises that help you gain insight into your own understanding of the world and self. The program includes daily check-ins and guided support, in addition to weekly sessions on your schedule, personalized lessons, and unique exercises."
       },
       {
-        "title": "Lifetime community and continuing support",
-        "body": "Even after the program ending, you will have access to our coaches and community for support, guideance, and help for any questions that may arise, and celebration for all your achievements.."
+        "title": "Continuing Support and Community",
+        "body": "Even after the program ending, you will have access to our coaches and community for support, guideance, and help for any questions that may arise, and celebration for all your achievements."
       }
     ]
   },
@@ -133,7 +133,7 @@
   },
   "footer": {
     "brandName": "Reforged Light Sobriety",
-    "tagline": "This program is a mentor-mentee and coaching program only. It does not substitute therapy or consitute a therapist-client relationship. If you are having a crisis, call your local crisis hotline. Reforged Light Sobriety coahces are not medical professional or doctors and do not claim to diagnose, cure, or prevent any disease. Always consult a physician before starting this program. Use of this program is strictly at your own risk. Reforged Light Sobriety will not assume any liability for direct or indirect losses or damages that may result from the use of the information in this program, including but not limited to economic loss, injury, or illness.",
+    "tagline": "This program is a mentor-mentee and coaching program only. It does not substitute therapy or constitute a therapist-client relationship. If you are having a crisis, call your local crisis hotline. Reforged Light Sobriety coaches are not medical professionals or doctors and do not claim to diagnose, cure, or prevent any disease. Always consult a physician before starting this program. Use of this program is strictly at your own risk. Reforged Light Sobriety will not assume any liability for direct or indirect losses or damages that may result from the use of the information in this program, including but not limited to economic loss, injury, or illness. Improvements shown or mentioned are based on individual experiences and should not be interpreted as typical and guaranteed outcomes",
     "nav": [
       { "label": "Home", "href": "/" },
       { "label": "About", "href": "/about" },
