@@ -3,9 +3,9 @@
     "title": "Reforged Light Sobriety"
   },
   "header": {
-    "logo": "Reforged Light",
+    "logo": "Reforged Light Sobriety",
     "nav": [
-      { "label": "Home", "href": "/" },
+      { "label": "Himbo", "href": "/" },
       { "label": "About", "href": "/about" },
       { "label": "Book & Contact", "href": "/contact" }
     ]
