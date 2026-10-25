@@ -4,23 +4,11 @@ import content from '../data/site-content.json'
 
 function LogoIcon() {
   return (
-    <svg
-      width="20"
-      height="20"
-      viewBox="0 0 24 24"
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-      aria-hidden="true"
-      className="text-ink"
-    >
-      <circle cx="12" cy="12" r="3" fill="currentColor" />
-      <path
-        d="M12 2C12 6 8 8 8 12C8 16 12 18 12 22M12 2C12 6 16 8 16 12C16 16 12 18 12 22M2 12C6 12 8 8 12 8C16 8 18 12 22 12M2 12C6 12 8 16 12 16C16 16 18 12 22 12"
-        stroke="currentColor"
-        strokeWidth="1.2"
-        strokeLinecap="round"
-      />
-    </svg>
+    <img
+      src="/logo.png"
+      alt=""
+      className="h-12 w-auto shrink-0 sm:h-14"
+    />
   )
 }
 
