@@ -4,6 +4,12 @@ import content from '../data/site-content.json'
 const VIDEO_START = 9
 const VIDEO_END = 36
 
+// hero-video.mp4 is 1920×1080, but every frame in the loop has about 104px of
+// solid black letterbox on the top and bottom. Size to a slightly tighter
+// 1920×864 picture so object-fit: cover crops those bars instead of showing them.
+const VIDEO_WIDTH = 1920
+const VIDEO_VISIBLE_HEIGHT = 864
+
 export default function Hero() {
   const {
     subtitle,
@@ -62,7 +68,11 @@ export default function Hero() {
       >
         <video
           ref={videoRef}
-          className="absolute left-1/2 top-1/2 h-[56.25vw] min-h-full w-full min-w-[177.78vh] -translate-x-1/2 -translate-y-1/2 object-cover"
+          className="absolute left-1/2 top-1/2 min-h-full w-full -translate-x-1/2 -translate-y-1/2 object-cover"
+          style={{
+            height: `${(VIDEO_VISIBLE_HEIGHT / VIDEO_WIDTH) * 100}vw`,
+            minWidth: `${(VIDEO_WIDTH / VIDEO_VISIBLE_HEIGHT) * 100}vh`,
+          }}
           src="/hero-video.mp4"
           autoPlay
           muted
